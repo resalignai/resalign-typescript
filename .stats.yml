@@ -1,4 +1,4 @@
 configured_endpoints: 49
-openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/resalign-ai/resalign-801b20ecbb0e480f09fb4e702db3840bbfa2432746ca0f30031288f80a8122b6.yml
+openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/resalign-ai/resalign-7c009e5b35ad7665e76c472f28dcd00b4518df250d487fc9d9d96d0f98d2e6a5.yml
 openapi_spec_hash: 11742285eb7750a7090044eba54832d4
-config_hash: fa7222c0ed74ccb9c878dbf778dd158b
+config_hash: c1d702e225ce455479e3aeb12f9ad209
