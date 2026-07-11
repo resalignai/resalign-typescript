@@ -1,6 +1,6 @@
 {
   "name": "resalign",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Resalign API",
   "author": "Resalign <>",
   "types": "dist/index.d.ts",
